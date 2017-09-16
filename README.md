@@ -15,6 +15,8 @@ Swift tutorials that I've made based on how to build some famous iOS apps, follo
 ## [ObjectDetector](https://www.youtube.com/watch?v=p6GA8ODlnX0&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr&index=10)
 
 If you wan't to know more subscribe to LBTA Youtube Channel: https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA
+
 Follow the channel on twitter: https://twitter.com/buildthatapp
+
 Website: https://www.letsbuildthatapp.com
 
