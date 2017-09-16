@@ -2,6 +2,8 @@
 
 Swift tutorials that I've made based on how to build some famous iOS apps, following the videos of [Brian Voong](https://github.com/bhlvoong).
 
+To run the projects just open the ".xcodeproj" file on Xcode.
+
 <b> All this apps were built without the use of Storyboards/Xcode Interface builder. </b>
 
 ## [Facebook News Feed](https://www.youtube.com/watch?v=NJxb7EKXF3U&list=PL0dzCUj1L5JHDWIO3x4wePhD8G4d1Fa6N)
