@@ -1,8 +1,8 @@
 # Swift-LetsBuildThatApp
 
-Swift tutorials on how to build some famous iOS apps.
+Swift tutorials that I've made based on how to build some famous iOS apps, following the videos of [Brian Voong](https://github.com/bhlvoong).
 
-<b> All this apps we're built without the use of Storyboards/Xcode Interface builder. </b>
+<b> All this apps were built without the use of Storyboards/Xcode Interface builder. </b>
 
 ## [Facebook News Feed](https://www.youtube.com/watch?v=NJxb7EKXF3U&list=PL0dzCUj1L5JHDWIO3x4wePhD8G4d1Fa6N)
 ## [Audible - Login Guide](https://www.youtube.com/watch?v=kecV6xPTTr8&list=PL0dzCUj1L5JHfozquTVhV4HRy-1A_aXlv)
@@ -15,4 +15,6 @@ Swift tutorials on how to build some famous iOS apps.
 ## [ObjectDetector](https://www.youtube.com/watch?v=p6GA8ODlnX0&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr&index=10)
 
 If you wan't to know more subscribe to LBTA Youtube Channel: https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA
+Follow the channel on twitter: https://twitter.com/buildthatapp
+Website: https://www.letsbuildthatapp.com
 
