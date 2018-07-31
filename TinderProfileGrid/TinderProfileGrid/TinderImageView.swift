@@ -37,5 +37,4 @@ class TinderImageView: UIImageView {
     indexLabel.topAnchor.constraint(equalTo: topAnchor, constant: 8).isActive = true
     indexLabel.leadingAnchor.constraint(equalTo: leadingAnchor, constant: 8).isActive = true
   }
-  
 }
